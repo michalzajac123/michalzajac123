@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I’m **Michał Zając** (GitHub: `michalzajac123`) — a 4th-year student at a programming technical school (technikum programistyczne).  
+I’m **Michał Zając** (GitHub: `michalzajac123`) — a 4th-year student at a programming technical school (ZSTiB Brzesko).  
 I’m passionate about web development, game projects, programming in general, and volleyball 🏐
 
 ---
